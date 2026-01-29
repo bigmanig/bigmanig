@@ -1,4 +1,4 @@
-## Hi there 👋
+## i'm working on new version of cracked from the ground up give me like 6 years thanks brotatos that's all rn
 
 <!--
 **bigmanig/bigmanig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
