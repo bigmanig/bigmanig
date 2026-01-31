@@ -1,16 +1,19 @@
-## i'm working on new version of cracked from the ground up give me like 6 years thanks brotatos that's all rn
+# cracked dev notes
 
-<!--
-**bigmanig/bigmanig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## status
+- currently implimenting a GPU-driven wordlist function (~50% complete)
+- currently implimenting a GPU-driven brute-force function (~20% complete)
+- working towards implimenting a secondary function to un-hash entire files using GPU brute-force (<10% complete)
+- facing major challenges implimenting kernels to get these functions up and running
 
-Here are some ideas to get you started:
+## thusfar...
+- base program is ~80% complete
+- UI improvements
+- substantially improved debug and error handling implimented
+- automated package installations
+- automated hardware analysis to determine function compatability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# release expected ~march 2026
+
+### note:
+- this page is temporary and will be replaced by a complete profile readme upon completion of the newest version of the cracked project
